@@ -17,9 +17,9 @@ The project can be improved by adding binding models, services, the rest of the 
 
 ## Useful commands
 
-mvn clean install
-docker build -t name-of-choices -f folder-name/Dockerfile .
-docker-compose docker-compose-file-name.yaml up
+* mvn clean install
+* docker build -t name-of-choices -f folder-name/Dockerfile .
+* docker-compose docker-compose-file-name.yaml up
 
 ## Authors
 
